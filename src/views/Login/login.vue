@@ -1,0 +1,19 @@
+<template>
+    <div>
+        登陆页面
+    </div>
+</template>
+<script>
+export default {
+    name: 'Login',
+    data () {
+        return {
+            msg: 'qwe'
+        }
+    }
+}
+</script>
+<style lang="scss" scoped>
+
+</style>
+

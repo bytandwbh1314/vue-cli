@@ -1,6 +1,8 @@
 <template>
     <div>
-        登陆页面
+        <div class="rem">
+
+        </div>
     </div>
 </template>
 <script>
@@ -14,6 +16,9 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-
+.rem {
+  height: 1rem;
+  width: 1rem;
+  background: #CCC;
+}
 </style>
-
